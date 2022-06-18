@@ -4,6 +4,8 @@ I have worked in software industry for over 20 years in numerous capacities. Cur
 
 I am responsible for database administration and customization. Here are a few examples VSI(https://bit.ly/3zGrH9E) and Accela(https://bit.ly/3tKywTD). VSI's data server is Progress, and Accela is SQL Server 2019; fusus(https://bit.ly/3mWVtzg.com). They manage the critical parts of the City's infrastructure.
 
+I am always interested in learning new ways to do my job efficiently and effectively. My goal is to provide value to my employer.
+
 ###### Where I went to college and spent a lot of money:
 
 Fordham University, NY BA, Computational Mathematics 
