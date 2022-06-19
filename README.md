@@ -8,8 +8,7 @@ The projects I have down the road. I serval old and complex asp and asp apps wit
  
 ##### Education
 ##### Fordham University, NY BA, Computational Mathematics
-##### Columbia University, NY School of Engineering and Applied Science, Civil Engineering
-	
+##### Columbia University, NY School of Engineering and Applied Science
 
 
 Below is a sample portfolio of my work:
