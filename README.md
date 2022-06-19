@@ -26,4 +26,4 @@ https://github.com/WLloydH/FeeEstimator
 (An old Aspx application that needed beautification because it hurt the image of the City)
 
 
-#h4 Please Note: Florida has a very broad Public Records Law. Most written communications to or from City Officials and employees regarding City business are public records available to the public and media upon request. Your email communications, including your email address, may therefore be subject to public disclosure, unless otherwise exempt by the Public Records Law.
+###### Please Note: Florida has a very broad Public Records Law. Most written communications to or from City Officials and employees regarding City business are public records available to the public and media upon request. Your email communications, including your email address, may therefore be subject to public disclosure, unless otherwise exempt by the Public Records Law.
